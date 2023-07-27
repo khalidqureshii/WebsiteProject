@@ -1,0 +1,196 @@
+
+body {
+    background-color: rgb(222, 255, 234);
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin: none ;
+}
+
+.intro {
+    font-family: 'Montez', cursive;
+    font-size: 8rem;
+}
+
+.intro2 {
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 4rem;
+    font-weight: normal;
+}
+
+.random1 {
+    text-decoration:underline;
+}
+
+.img1 {
+    width: 15%;
+    position: absolute;
+    right: 18%;
+    top: 2%;
+}
+
+.img2 {
+    width: 15%;
+    position: absolute;
+    left: 25%;
+    top: 30%;
+}
+.divClass {
+    width: 100%;
+    height: 130px;
+}
+
+.mountain {
+    width :40%;
+    margin-bottom: 2rem;
+}
+
+.self {
+    margin-top: 2rem;
+    width : 15%
+}
+
+.self2 {
+    margin-top: 2rem;
+    width : 15%
+}
+
+.intro3 {
+    font-size: 5rem;
+    margin-bottom: 10px;
+    color:rgb(65, 155, 103);
+}
+
+.intro4 {
+    width: 40%;
+    font-size: 2rem;
+    margin: 0 auto 0 auto;
+}
+
+.dot {
+    border-style: dotted none none none;
+    border-width: 7px;
+    width: 10%;
+    border-color: grey;
+
+}
+
+.mySkills {
+    font-size: 5rem;
+    color:rgb(65, 155, 103);
+    margin-bottom: 4rem;
+}
+
+.boxing {
+    width: 70%;
+    float: left;
+    position: relative;
+    top: 20px;
+}
+
+.cubing {
+    margin-left: 30px;
+    width: 60%;
+    float: right;
+    margin-down: 100px;
+}
+
+.reading {
+    width: 65%;
+    float: left;
+}
+
+.typing {
+    width: 60%;
+    float: right;
+}
+
+/* font-family: 'Baloo 2', cursive;
+font-family: 'Boogaloo', cursive;
+font-family: 'Bree Serif', serif;
+font-family: 'Darumadrop One', cursive;
+font-family: 'Montez', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Red Hat Display', sans-serif;
+font-family: 'Sacramento', cursive;
+font-family: 'Ysabeau Infant', sans-serif; */
+.hobbyText {
+    font-family: 'Baloo 2', cursive;
+    margin-top: 1rem;
+    font-size: 2rem;
+    width: 100%;
+}
+
+.hobbies {
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
+
+.hobbyTitle {
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+    font-size: 4rem;
+    color: red;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif
+}
+
+table {
+    text-align: center;
+    margin-top: 0px;
+}
+
+.ending {
+    margin-top: 0px;
+    font-size: 2rem;
+    color:rgb(49, 99, 70);
+}
+
+.end {
+
+    width: 100%;
+    height: 10rem;
+    margin: 100px none none none;
+    background-color:  rgb(102, 219, 145);
+}
+
+.copyright {
+    color: white;
+    font-size : 2rem;
+    padding-top: 60px;
+}
+
+.btn {
+    background: #51b877;
+    background-image: -webkit-linear-gradient(top, #51b877, #234730);
+    background-image: -moz-linear-gradient(top, #51b877, #234730);
+    background-image: -ms-linear-gradient(top, #51b877, #234730);
+    background-image: -o-linear-gradient(top, #51b877, #234730);
+    background-image: linear-gradient(to bottom, #51b877, #234730);
+    -webkit-border-radius: 18;
+    -moz-border-radius: 18;
+    border-radius: 18px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #74cf95;
+    background-image: -webkit-linear-gradient(top, #74cf95, #69b585);
+    background-image: -moz-linear-gradient(top, #74cf95, #69b585);
+    background-image: -ms-linear-gradient(top, #74cf95, #69b585);
+    background-image: -o-linear-gradient(top, #74cf95, #69b585);
+    background-image: linear-gradient(to bottom, #74cf95, #69b585);
+    text-decoration: none;
+  }
+
+  .newBlock {
+
+  }
+
+  .space {
+    width: 100%;
+    height: 100px;
+  }
